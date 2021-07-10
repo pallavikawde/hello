@@ -14,6 +14,7 @@ int IS_FULL_TIME = 1;
 		int wagePerHour = 20;
 		int fullDayHour = 8;
 		int dailyWage = 0;
+	System.out.println("one branch master file added");
 	}
 }
 
